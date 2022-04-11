@@ -1,0 +1,11 @@
+Alexandre CHIKHI@5CD1343GBP MINGW64 ~/wild-git (master)
+$ git log -p
+commit 7d1728f92d56c04c8b15b273728fa27bc4b59a88 (HEAD -> master)
+Author: Alexandre-Chikhi <alexandre.chikhi@sncf.fr>
+Date:   Mon Apr 11 15:11:58 2022 +0200
+
+    At Wild Code School, we code without shoes.
+
+diff --git a/wild.html b/wild.html
+new file mode 100644
+index 0000000..e69de29
